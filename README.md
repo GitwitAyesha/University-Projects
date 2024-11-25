@@ -1,2 +1,2 @@
 # University-Projects
-Here are all the projects that i've done throughout my bachlor's program. The projects includes Hospital management system in java along with its database in sql,TO DO LIST application using python GUI (Tkinter),College management system using python and sql etc
+Here are all the projects that i've done throughout my bachlor's program. The projects includes Tic tac toe in c language (1st semester programming fundamentals project) Hospital management system in java along with its database in sql(2nd semester object oriented programming project),TO DO LIST application using python GUI (Tkinter)(3rd semester theory of programming project),College management system using python and sql(4rth semester Database management systems project) etc
